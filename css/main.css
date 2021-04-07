@@ -1,0 +1,10 @@
+.indice {
+  width: 400px;
+  height: 580px;
+  display: table;
+  padding: 7px;
+  border: 1px solid #a2a9b1;
+  background-color: #f8f9fa;
+  padding: 5px;
+  font-size: 95%;
+}
